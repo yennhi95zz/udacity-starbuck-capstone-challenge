@@ -40,3 +40,5 @@ Event log (306648 events x 4 fields)
 
 Source: [Udacity Nano Program: Data Scientist](https://www.udacity.com/course/data-scientist-nanodegree--nd025?utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=12908932988_c_individuals&utm_term=124509203711&utm_keyword=%2Budacity%20%2Bdata%20%2Bscience_b&gclid=Cj0KCQjwxtSSBhDYARIsAEn0thQ37yvP0P4SRAW7XaiasAdiTOYFe-IfkrDUAbPxQNuZ_05CUs6ukj0aAlT-EALw_wcB)
 
+More insights in the [blog](https://medium.com/@yennhi95zz/starbucks-capstone-challenge-a4a822f994c1).
+
